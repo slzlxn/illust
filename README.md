@@ -13,7 +13,7 @@ ctrl + alt + 숫자2 --> 풀기 (전체가 한꺼번에 풀림)
 --------------------------------------------------------<br>🙈
 ###z-index(뒤로 보내기)
 
-<img src="https://user-images.githubusercontent.com/105650300/230843081-f2e8affa-54e9-4484-a9d4-1c735703a997.png" width="300px">
+<img src="[https://user-images.githubusercontent.com/105650300/230843081-f2e8affa-54e9-4484-a9d4-1c735703a997.png](https://user-images.githubusercontent.com/105650300/230844213-846db273-23db-4c79-b89e-55a9a5023022.png)" width="300px">
 
 ###개체 선택하기
 <br>
